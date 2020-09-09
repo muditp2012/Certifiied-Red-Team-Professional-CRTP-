@@ -1,4 +1,4 @@
-# Certifiied-Red-Team-Professional-CRTP
+# Certified-Red-Team-Professional-CRTP
 Review of Pentester academy CRTP certification
 
 I recently attempted and cleared Pentester academy CRTP certification. 
